@@ -266,3 +266,7 @@ Its two report pages provide focused views of customers, revenue, profit, profit
 **Project Name:** Asian Paints Executive Dashboard  
 **Power BI File:** `pr_5.pbix`  
 **Documentation File:** `README.md`
+
+## Project Video
+
+[Watch the Asian Paints Executive Dashboard video](https://drive.google.com/file/d/1_cclwGmE1fobEeEE8O0W_cOuhe9zMtt5/view?usp=sharing)
